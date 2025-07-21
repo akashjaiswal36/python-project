@@ -1,0 +1,12 @@
+pip install virtualenv
+
+python -m venv project-xyz
+
+#to start the venv
+
+source project-xyz/bin/activate
+
+# to close venv
+
+deactivate
+
