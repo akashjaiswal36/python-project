@@ -18,7 +18,7 @@ def createJIRA():
 
     url = "https://akashjaiswal-1746203677846.atlassian.net/rest/api/3/issue"
 
-    API_TOKEN = ...
+    API_TOKEN = ""
 
     auth = HTTPBasicAuth("akashjaiswal@live.in", API_TOKEN)
 
